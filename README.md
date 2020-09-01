@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-
-![JS Logo](https://revolusim.com/wp-content/uploads/2016/01/logo-javascript.png)
+![Python Logo](https://raw.githubusercontent.com/Stamper/Stamper/master/py.png) ![JS Logo](https://raw.githubusercontent.com/Stamper/Stamper/master/js.png)
